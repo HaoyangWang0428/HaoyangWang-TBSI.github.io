@@ -24,13 +24,13 @@ body {
 table{ background-color: #ffffff; }
 
 a, a:link, a:visited {
-  color: #1f82a9;
+  color: #5f2167;
   background:transparent text-decoration: underline;
   cursor:pointer; background-color:underline
 }
 
 a:hover {
-  color: #006699;
+  color: #000000;
   background:inherit;
   text-decoration: underline;
 }
